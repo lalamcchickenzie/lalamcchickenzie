@@ -35,8 +35,7 @@
 
 ### 📫 Contact Me:
 - Email: njla20me@gmail.com
-- LinkedIn: [www.linkedin.com/in/saidatul-najla](https://www.linkedin.com/in/saidatul-najla)  
-- GitHub: [github.com/lalamcchickenzie](https://github.com/lalamcchickenzie)  
+
 
 ---
 
