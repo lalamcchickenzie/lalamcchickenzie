@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Saidatul Najla!
 
-I am a passionate software developer currently exploring full-stack development and working on various projects in Java, C++, and web technologies. My focus is on building impactful applications that solve real-world problems.
 
 ---
 
