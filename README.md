@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saidatul Najla!
+# 👋 Hi, I'm Najla!
 
 
 ---
