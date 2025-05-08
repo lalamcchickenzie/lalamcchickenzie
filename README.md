@@ -23,7 +23,7 @@
 
 ### 🚀 Projects:
 - [Charity Management System](https://github.com/lalamcchickenzie/CharityManagementSystem) - Manage campaigns, donations, and donor interactions
-- [Tour Guide Verification App](https://github.com/lalamcchickenzie/TourGuideVerification) - Secure tour guide verification using barcodes/NFTs.
+- [Tour Guide Verification App](https://github.com/lalamcchickenzie/chaperoneMe) - Secure tour guide verification using barcodes/NFTs.
 ---
 
 ### 🎯 Current Focus:
