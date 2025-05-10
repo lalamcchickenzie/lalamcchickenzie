@@ -17,8 +17,10 @@
 ---
 
 ### 🚀 Projects:
-- [AidFund+] (https://github.com/lalamcchickenzie/AidFund-.git)- Manage campaigns, donations, and donor interactions
-- [chaperoneMe](https://github.com/lalamcchickenzie/chaperoneMe) - Secure tour guide verification using barcodes/NFTs.
+
+- [**AidFund+**](https://github.com/lalamcchickenzie/AidFund) – Manage campaigns, donations, and donor interactions  
+- [**chaperoneMe**](https://github.com/lalamcchickenzie/chaperoneMe) – Secure tour guide verification using barcodes/NFTs
+
 ---
 
 ### 🎯 Current Focus:
