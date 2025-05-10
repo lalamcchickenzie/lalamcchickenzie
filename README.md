@@ -11,7 +11,7 @@
 
 ### 🛠 Tech Stack:
 - *Programming Languages:* Java, C++ 
-- *Web Technologies:* HTML, CSS, JavaScript  
+- *Web Technologies:* HTML, CSS, Tailwind CSS, JavaScript  
 - *Tools & Frameworks:* Eclipse, Git, GitHub, VS Code  
 
 ---
