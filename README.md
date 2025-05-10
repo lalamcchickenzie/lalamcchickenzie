@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 Projects:
-- [Charity Management System](https://github.com/lalamcchickenzie/CharityManagementSystem) - Manage campaigns, donations, and donor interactions
+- [AidFund+] (https://github.com/lalamcchickenzie/AidFund-.git)- Manage campaigns, donations, and donor interactions
 - [chaperoneMe](https://github.com/lalamcchickenzie/chaperoneMe) - Secure tour guide verification using barcodes/NFTs.
 ---
 
